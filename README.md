@@ -8,7 +8,7 @@
 
 [![🐦](https://img.shields.io/badge/Twitter-282A36?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leocunhadev) &nbsp; <br>
 [![📷](https://img.shields.io/badge/Instagram-282A36?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leocunhadev) <br>
-[![⚛️](https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=white)](https://leocunha.dev) <br>
+[![⚛️](https://img.shields.io/badge/Website-282A36?style=for-the-badge&logo=github&logoColor=white)](https://leocunha.dev) <br>
 
 ![github status](https://github-readme-stats.vercel.app/api?username=leocunhadev&show_icons=true&include_all_commits=true&theme=react&hide_border=false)
 
